@@ -83,7 +83,7 @@ public class StudentResource {
 				StudentPerInfoList.add(studentPerInfo);
 			}
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch blockgfgfd
 			e.printStackTrace();
 		}
 
